@@ -3,6 +3,8 @@
 Seja bem-vindo(a) ao meu repositório.  
 Aqui você encontra todos os projetos e estudos que faço durante minha carreira na TI.  
 Gosto de aprender e contribuir com todos, independente da tecnologia usada.  
+Atualmente estou contribuindo para o projeto open-source [The Modern JavaScript Tutorial](https://javascript.info/) traduzindo de inglês para português
+[(veja o repositório aqui)](https://github.com/javascript-tutorial/pt.javascript.info)
 
 Veja minha lista de valores:  
 🔎 Curiosidade (gosto de investigar e aprender sobre o que me intriga)  
@@ -23,7 +25,8 @@ ___
 
 Programo o backend com:  
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>  
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>  
 
 Programo o frontend com:  
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -41,8 +44,7 @@ Manipulo dados com:
 <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  
 
 Escrevo meus códigos com:  
-<img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?&style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
 
 Controlo os versionamentos com:  
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -56,7 +58,6 @@ Sempre comigo:
 <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />  
 
 Ferramentas:  
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
 <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/>  
 
@@ -67,4 +68,4 @@ Plataformas que utilizo:
 ___
 
 Página em constante atualização  
-Atualizado em 11 de março de 2021 📆
+Atualizado em 22 de abril de 2021 📆
