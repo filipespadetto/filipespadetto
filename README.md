@@ -23,7 +23,8 @@ I'm data analyst since 2018. I have experience with reports and dashboards, data
 ## See some analytics and Python projects I've done
 ### Python projects
 [Student API Data](https://github.com/filipespadetto/student-api-data)  
-[Rock Paper Scissors CLI Game](https://github.com/filipespadetto/oop-rock-paper-scissors)
+[Virtual Patient System made with Tkinter lib](https://github.com/filipespadetto/sistema-virtual-de-pacientes)  
+[Rock Paper Scissors POO CLI Game](https://github.com/filipespadetto/oop-rock-paper-scissors)
 
 ### Analytics projects
-[Uber Dashboard made with Streamlit](https://github.com/filipespadetto/uber-ny-dashboard)  
+[Uber NY Dashboard made with Streamlit lib](https://github.com/filipespadetto/uber-ny-dashboard)  
