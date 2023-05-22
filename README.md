@@ -1,7 +1,6 @@
-## Hi there
-My name is Filipe. Husband and father of Juca (my dog 🐾). I play drums, my favorite music style is Prog Metal, and I'm a IA/ML enthusiast.
+## Hi, there.
 
-I'm data analyst since 2018. I have experience with reports and dashboards, data manipulation and extraction, SQL and Databases, also my background is Python.
+My name is Filipe. I work in data analysis about 5 years, my current job is Business Analyst and Data Engineering. I have experience in building datalake with data pipelines on Azure Synapse Analytics, data integration with SSIS, and building reports on Power BI, as well.
 
 ## Know more about me
 - Name: Filipe Spadetto
